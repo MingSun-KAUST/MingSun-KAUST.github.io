@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [Computational Imaging Group](https://vccimaging.org/), [KAUST](https://www.kaust.edu.sa/en).
 
 profile:
   align: right
