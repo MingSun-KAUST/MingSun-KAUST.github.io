@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Computational Imaging Group](https://vccimaging.org/), [KAUST](https://www.kaust.edu.sa/en).
+subtitle: Computational Microscopy.
 
 profile:
   align: right
