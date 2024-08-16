@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at <a href="https://www.github.com/404" style="color:red;">IEEE Trans. Instrum. Meas.</a>!
+One paper accepted by <a href="https://www.github.com/404" style="color:red;">IEEE Trans. Instrum. Meas.</a>!
