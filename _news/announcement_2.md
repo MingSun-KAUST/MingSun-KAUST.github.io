@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Best poster shortlist & Spotlight poster at [ICCP 2024](https://iccp-conference.org/iccp2024/posters-and-demos/) in EPFL, Switzerland!
+Best poster shortlist & Spotlight poster at <a href="https://iccp-conference.org/iccp2024/posters-and-demos/" style="color:red;">ICCP 2024</a> in EPFL, Switzerland!
 
