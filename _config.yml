@@ -208,7 +208,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rn37bo98hp&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
+# <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rn37bo98hp&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
