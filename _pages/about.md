@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
-   # <p>555 your office number</p>
+    <p>Email: ming.sun@kaust.edu.sa</p>
    # <p>123 your address street</p>
    # <p>Your City, State 12345</p>
 
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The #code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a 3rd year Ph.D. student at King Abdullah University of Science and Technology (KAUST), advised by Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Previously, I obtained my Bachelor's degree and Master's degree from Harbin Institute of Technology (HIT), advised by  Prof. [Zhengjun Liu](https://www.researchgate.net/profile/Zhengjun-Liu-3) and Prof. [Zhen-gang Lu](https://homepage.hit.edu.cn/luzhengang).
 
-I am currently a 3rd year Ph.D. student at King Abdullah University of Science and Technology (KAUST), advised by Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Previously, I obtained my Bachelor's degree and Master's degree from Harbin Institute of Technology (HIT), advised by Prof.Zhen-gang Lu and Prof. Zhengjun Liu.
+My research interests lie in computational imaging techniques, with a particular focus on quantitative phase imaging in microscopy. My work bridges the gap between software and hardware, aiming to enhance optical system performance through innovative algorithm design.
 
-I am interested in computational imaging techniques, with a focus on quantitative phase imaging in microscopy areas. My work integrates both software and hardware parts, realizing optical system performance improvement by algorithm design. I am actively looking for research internships.
+I am actively seeking research internship opportunities. Feel free to contact me!
