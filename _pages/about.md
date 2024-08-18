@@ -6,7 +6,7 @@ subtitle: Computational Microscopy.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ming.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Email: ming.sun@kaust.edu.sa </p>
